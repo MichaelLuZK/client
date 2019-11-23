@@ -1,4 +1,4 @@
-package com.imooc.client;
+package com.casic.client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
