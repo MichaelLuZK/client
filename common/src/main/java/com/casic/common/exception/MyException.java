@@ -1,7 +1,7 @@
-package com.casic.client.common.exception;
+package com.casic.common.exception;
 
 
-import com.casic.client.common.enums.ResultEnum;
+import com.casic.common.enums.ResultEnum;
 
 public class MyException extends RuntimeException{//继承runtimeException是因为spring框架只对runtime异常进行事物回滚
     private Integer code;

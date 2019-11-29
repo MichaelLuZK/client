@@ -1,4 +1,4 @@
-package com.casic.client.common.enums;
+package com.casic.common.enums;
 
 public enum ResultEnum {
     UNKNOW_ERROR(-1,"未知错误"),

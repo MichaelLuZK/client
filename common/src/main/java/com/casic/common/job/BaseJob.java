@@ -1,4 +1,4 @@
-package com.casic.client.common.job;
+package com.casic.common.job;
 
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;

@@ -1,4 +1,4 @@
-package com.casic.client.common.utils;
+package com.casic.common.utils;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;

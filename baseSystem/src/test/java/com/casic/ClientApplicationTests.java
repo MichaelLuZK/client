@@ -1,4 +1,4 @@
-package com.casic.client;
+package com.casic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

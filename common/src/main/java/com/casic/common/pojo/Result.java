@@ -1,4 +1,4 @@
-package com.casic.client.common.pojo;
+package com.casic.common.pojo;
 /*
 * http请求返回的最外层对象
 * */

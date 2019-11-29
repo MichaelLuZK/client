@@ -1,4 +1,4 @@
-package com.casic.client.common.config;
+package com.casic.common.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;

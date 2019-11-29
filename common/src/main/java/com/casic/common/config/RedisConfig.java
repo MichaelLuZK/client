@@ -1,4 +1,4 @@
-package com.casic.client.common.config;
+package com.casic.common.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;

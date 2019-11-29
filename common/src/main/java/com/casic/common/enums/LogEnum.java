@@ -1,4 +1,4 @@
-package com.casic.client.common.enums;
+package com.casic.common.enums;
 
 public enum LogEnum {
     LOGIN(1,"登入操作"),

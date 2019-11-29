@@ -1,4 +1,4 @@
-package com.casic.client.common.job;
+package com.casic.common.job;
 
 import java.util.Date;  
 import org.slf4j.Logger;  

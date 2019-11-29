@@ -1,4 +1,4 @@
-package com.casic.client.common.config;
+package com.casic.common.config;
 
 import java.io.IOException;
 import java.util.Properties;

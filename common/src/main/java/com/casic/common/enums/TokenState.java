@@ -1,4 +1,4 @@
-package com.casic.client.common.enums;
+package com.casic.common.enums;
 
 /**
  * 枚举，定义token的三种状态

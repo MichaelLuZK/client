@@ -1,4 +1,4 @@
-package com.casic.client.common.utils;
+package com.casic.common.utils;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

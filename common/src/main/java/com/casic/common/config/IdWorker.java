@@ -1,4 +1,4 @@
-package com.casic.client.common.config;
+package com.casic.common.config;
 
 import org.n3r.idworker.Sid;
 import org.springframework.context.annotation.Bean;

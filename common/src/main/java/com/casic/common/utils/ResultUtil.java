@@ -1,6 +1,6 @@
-package com.casic.client.common.utils;
+package com.casic.common.utils;
 
-import com.casic.client.common.pojo.Result;
+import com.casic.common.pojo.Result;
 
 public class ResultUtil {
     public static Result success(Object object){
